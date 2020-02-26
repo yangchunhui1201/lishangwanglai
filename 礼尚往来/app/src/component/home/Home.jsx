@@ -37,6 +37,57 @@ export default class Home extends Component{
 						</div>
 					</div>
 				</div>
+				<div id="bottom">
+					<div id="bottom-head">
+						<span>排行</span>
+						<span>用户</span>
+						<span>历史盈亏</span>
+						<span>本月盈亏</span>
+						<span style={{marginRight:'0px',fontWeight:'300',}}>更多</span>
+					</div>
+					<div id="bottom-cont">
+						<span>1</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>2</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>3</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>4</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>5</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>6</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+					<div id="bottom-cont">
+						<span>7</span>
+						<span>JAMES 刘</span>
+						<span>95685.00</span>
+						<span>4500.00</span>
+					</div>
+				</div>
 			</div>
 		)
 	}
