@@ -1,0 +1,41 @@
+<!--index.wxml-->
+<!--index.wxml-->
+<view class="container">
+<view class="head">
+<view class="dizhi">上海</view>
+<input class="inp" placeholder="搜索垃圾查看对应分类"></input>
+</view>
+<view class="shuru">
+[全国垃圾分类测试]，朋友圈还成绩单，大家一起来比拼，为大力推广立即分类。
+</view>
+<view class="bor">
+<view class="bor-left">
+<view class="title">湿垃圾</view>
+<view class="list">干垃圾</view>
+<view class="list">可回收物</view>
+<view class="list">有害垃圾</view>
+</view>
+<view class="con-right">
+<view class="con">
+<view class="text1" decode="true">
+&npsb;&npsb;废纸张、废塑料、废玻璃制品、废金属、废织物等适宜回收、可循环利用的生活废弃物
+</view>
+<view class="text">
+轻投轻放；清洁干燥，避免污染；废纸尽量平整；立体包装物请清空内容物，清洁后压扁投 放；有尖锐边角的，应包裹后投放
+</view>
+</view>
+<view class="con2">CoCo的青稞</view>
+<view class="con1">姑娘果</view>
+<view class="con2">菇娘果</view>
+<view class="con1">秸秆杯</view>
+<view class="con2">秸秆碗</view>
+<view class="con1">KFC圆筒冰淇淋</view>
+</view>
+</view>
+<view class="bot">
+<view class="bot-bo">指南</view>
+<view class="bot-bo">测试</view>
+<view class="bot-bo">专题</view>
+<view class="bot-bo">设置</view>
+</view>
+</view>
