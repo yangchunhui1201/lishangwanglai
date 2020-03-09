@@ -1,0 +1,44 @@
+/* pages/c/c.wxss */
+.bigbox{
+  background: #f0f0f0;
+  width: 100%;
+  height: auto;
+  padding-bottom: 200rpx;
+  padding-top:30rpx;
+}
+.bigbox .boox{
+  background: #fff;
+  height:144rpx;
+  width: 650rpx;
+  margin:30rpx  auto;
+  border-radius: 20rpx; 
+  line-height: 144rpx;
+}
+.bigbox .ls{
+  font-size: 32rpx;
+  font-weight: 700;
+}
+.boox .imag{
+  width: 76rpx;
+  height: 63rpx;
+  margin:20px 10px;
+  float: left;
+}
+.bigbox .image{
+  width: 52rpx;
+  height: 77rpx;
+  margin:15px 10px;
+  float: left;
+}
+.bigbox .imge{
+  width: 22rpx;
+  height: 77rpx;
+  margin:15px 20px;
+  float: left;
+}
+.bigbox .jian{
+  width: 20rpx;
+  height: 32rpx;
+  margin:26px 20px;
+  float: right;
+}

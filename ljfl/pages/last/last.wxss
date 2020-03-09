@@ -1,0 +1,29 @@
+/* pages/d/d.wxss */
+.function{
+  background: #f0f0f0;
+  width: 100%;
+  height: auto;
+}
+.boss{
+  height: 98rpx;
+  display: block;
+  color: #aaaaaa;
+  font-size: 24rpx;
+  padding-left:25rpx;
+  line-height: 98rpx;
+}
+.Chinese{
+  height: 84rpx;
+  font-size: 24rpx;
+  display: block;
+  background: #fff;
+  padding-left:25rpx;
+  line-height: 84rpx;
+  margin-bottom: 3rpx;
+}
+.jt{
+  width: 37rpx;
+  height: 25rpx;
+  float: right;
+  margin: 10px;
+}

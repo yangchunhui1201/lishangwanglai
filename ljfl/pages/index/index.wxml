@@ -1,5 +1,4 @@
 <!--index.wxml-->
-<!--index.wxml-->
 <view class="container">
 <view class="head">
 <view class="dizhi">上海</view>
@@ -11,7 +10,8 @@
 <view class="bor">
 <view class="bor-left">
 <view class="title">湿垃圾</view>
-<view class="list">干垃圾</view>
+<navigator url = "pages/aaa/aaa"><view class="list">干垃圾</view></navigator>
+
 <view class="list">可回收物</view>
 <view class="list">有害垃圾</view>
 </view>
@@ -31,11 +31,5 @@
 <view class="con2">秸秆碗</view>
 <view class="con1">KFC圆筒冰淇淋</view>
 </view>
-</view>
-<view class="bot">
-<view class="bot-bo">指南</view>
-<view class="bot-bo">测试</view>
-<view class="bot-bo">专题</view>
-<view class="bot-bo">设置</view>
 </view>
 </view>

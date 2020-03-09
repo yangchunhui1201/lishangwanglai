@@ -1,0 +1,46 @@
+<!--pages/d/d.wxml-->
+<view class="function">
+  <view class="boss">
+    <text class="voice">语言</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">中文</text>
+    <image src="../../images/m.jpg" class="jt"></image>
+  </view>
+  <view class="Chinese">
+    <text class="wen">English</text>
+  </view>
+  <view class="boss">
+    <text class="voice">城市</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">北京</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">长春</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">成都</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">重庆</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">长沙</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">大连</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">德阳</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">福州</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">广元</text>
+  </view>
+  <view class="Chinese">
+    <text class="wen">贵州</text>
+  </view>
+</view>

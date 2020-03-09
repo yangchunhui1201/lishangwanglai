@@ -1,0 +1,13 @@
+<!--pages/b/b.wxml-->
+<view class="test">
+  <view class="boxes">
+  <text class="along">随堂测试</text>
+  <text class="number">01<text class="num">/10</text></text>
+  </view>
+  <view class="button">
+     <text class="cy">水饺盒</text>
+     <text class="qt">其他垃圾</text>
+     <text class="qt">可回收物</text>
+     <text class="qt">有害垃圾</text>
+  </view>
+</view>

@@ -1,0 +1,33 @@
+<!--pages/c/c.wxml-->
+<view class="bigbox">
+  <view class="boox">
+    <image src="../../images/p1.jpg" class="imag"></image>
+    <text class="ls">小龙虾</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+  <view class="boox">
+    <image src="../../images/p2.jpg" class="imag"></image>
+    <text class="ls">粽子</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+  <view class="boox">
+    <image src="../../images/p3.jpg" class="image"></image>
+    <text class="ls">奶茶</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+  <view class="boox">
+    <image src="../../images/p4.jpg" class="imag"></image>
+    <text class="ls">电池</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+  <view class="boox">
+    <image src="../../images/p5.jpg" class="imag"></image>
+    <text class="ls">外卖</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+  <view class="boox">
+    <image src="../../images/p6.jpg" class="imge"></image>
+    <text class="ls">化妆品</text>
+    <image src="../../images/p7.jpg" class="jian"></image>
+  </view>
+</view>

@@ -1,0 +1,47 @@
+/* pages/b/b.wxss */
+.test{
+  width: 100%;
+  height: auto;
+}
+.boxes{
+  padding-left:30rpx;
+  margin-bottom: 40rpx;
+  display: block;
+}
+.boxes .along{
+  font-size: 30rpx;
+  font-weight: 700;
+  display: block;
+  padding-bottom: 20rpx;
+}
+.noxes .number{
+  font-size: 26rpx;
+  display: block;
+  padding-left:30rpx;
+}
+.boxes .num{
+  font-size: 26rpx;
+  color: #d1d1d1;
+}
+.button{
+  text-align: center;
+  width: 433rpx;
+  height: auto;
+  margin: auto;
+}
+.button .cy{
+  font-size: 62rpx;
+  font-weight: 700;
+  display: block;
+  padding-bottom: 40rpx;
+}
+.button .qt{
+  width: 430rpx;
+  height: 94rpx;
+  font-size: 30rpx;
+  display: inline-block;
+  border:solid 1rpx #d1d1d1;
+  border-radius: 60rpx;
+  margin-bottom: 20rpx;
+  line-height: 94rpx;
+}

@@ -1,7 +1,11 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/text/text",
+    "pages/question/question",
+    "pages/last/last",
+    "pages/aaa/aaa"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -10,5 +14,25 @@
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "指南"
+      },
+      {
+        "pagePath": "pages/text/text",
+        "text": "测试"
+      },
+      {
+        "pagePath": "pages/question/question",
+        "text": "专题"
+      },
+      {
+        "pagePath": "pages/last/last",
+        "text": "设置"
+      }
+    ]
+  }
 }
