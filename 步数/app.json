@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/fri/fri",
+    "pages/mon/mon",
+    "pages/my/my"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "赚运动币",
+      "iconPath": "img/1.png",
+      "selectedIconPath": "img/1.1.png"
+    },{
+      "pagePath": "pages/mon/mon",
+      "text": "幸运转盘",
+      "iconPath": "img/2.png",
+      "selectedIconPath": "img/2.2.png"
+    },{
+      "pagePath": "pages/fri/fri",
+      "text": "步数红包",
+      "iconPath": "img/3.png",
+      "selectedIconPath": "img/3.3.png"
+    },{
+      "pagePath": "pages/my/my",
+      "text": "我的",
+      "iconPath": "img/4.png",
+      "selectedIconPath": "img/4.4.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

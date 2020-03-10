@@ -1,0 +1,96 @@
+.content{
+  height: 1000rpx;
+  background: #ff503f;
+}
+.banner_box{
+ width:100%;
+ height:170rpx;
+}
+image{
+  width:100%;
+  height:100%;
+} 
+.container{
+  padding: 140rpx 66rpx;
+  box-sizing: border-box;
+  margin-top:-1rpx;
+  background: #ff503f;
+}
+.pross_box{
+  width: 100%;
+  margin-bottom: 28rpx;
+}
+.pro_bot_box{
+  font-size:26rpx;
+  color:white;
+  display: flex;
+  margin-top:8rpx;
+}
+.pro_bot_box text{
+  flex:1;
+  text-align: center;
+}
+.redev_box{
+  width: 100%;
+  height: 530rpx;
+  background: linear-gradient(to bottom,#fffffb,#fffeea);
+  border-radius: 10rpx;
+  padding: 65rpx 117rpx 51rpx 117rpx;
+  box-sizing: border-box;
+  position: relative;
+}
+.redbao{
+  position: absolute;
+  width: 145rpx;
+  height: 190rpx;
+  background:#ff404d;
+  border-radius: 10rpx;
+  overflow: hidden;
+  box-shadow: 0rpx 30rpx 20rpx -20rpx #fe5d63;
+}
+.redbao:nth-of-type(2){
+  top:64rpx;
+  left: 113rpx;
+}
+.redbao:nth-of-type(1){
+  top:64rpx;
+  right: 113rpx;
+}
+.redbao:nth-of-type(3){
+  bottom:25rpx;
+  right: 113rpx;
+}
+.redbao:nth-of-type(4){
+  bottom:25rpx;
+  left: 113rpx;
+}
+.rebbao_top{
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 50%;
+  background: linear-gradient(to right,#ffb06d,#ff6e4c);
+  border: 2rpx solid white;
+  margin-top:-90rpx;
+  margin-left:-18rpx;
+}
+.kai_box{
+  width: 75rpx;
+  height: 75rpx;
+  border: 4rpx solid #fbf9b9;
+  border-radius: 50%;
+  background: linear-gradient(to bottom,#fecb77,#ff7663);
+  line-height: 75rpx;
+  text-align: center;
+  color:white;
+  font-size: 28rpx;
+  position: absolute;
+  top:25%;
+  left:22%;
+}
+.reb_bot{
+  font-size:26rpx;
+  font-weight: bold;
+  color:#fff342;
+  text-align: center;
+  margin-top:40rpx;
+}

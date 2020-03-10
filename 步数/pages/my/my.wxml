@@ -1,0 +1,77 @@
+<view>
+  <view class="top_box">
+    <view class="top_pic">
+      <view class="pic_le">
+        <view class="pic_box">
+          <image src="{{userInfo.avatarUrl}}" mode="cover"></image>
+        </view>
+      </view>
+      <view class="pic_ri">
+        <view class="rig_top">
+          <view style="font-size:36rpx;color:white;float:left;">{{userInfo.nickName}}</view>
+          <view class="top_rig">查看特权</view>
+        </view>
+        <view class="rig_bot">
+          <view style="width:480rpx;position:relative">
+            <progress style="margin-top:30rpx;" backgroundColor="#db3e2e" border-radius="8rpx" stroke-width="18rpx" percent="10" color="#ffc20c" />
+            <text style="position:absolute;top:0;left:45%;font-size:18rpx;color:white;">10/200(成长值)</text>
+          </view>
+          <view class="bot_vip">
+            <view class="vip_le">
+              vip1
+            </view>
+            <view class="vip_ri">
+              vip+10%vip2
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="top_bot_box">
+      <view class="let_box">
+        <view style="font-size:50rpx;color:#efe9ac;" class="lhh">98</view>
+        <view style="font-size:23rpx;color:#f5b1b3;margin-top:26rpx;">运动币余额</view>
+      </view>
+      <view class="cent_box">
+        <view style="width:150rpx;height:24rpx;margin:0 auto;">
+          <image src="/img/images/12_03.png"></image>
+        </view>
+        <view class="duih_box">
+          立即兑换
+        </view>
+      </view>
+      <view class="rig_box">
+        <view style="font-size:50rpx;color:#efe9ac;">100元</view>
+        <view style="font-size:23rpx;color:#f5b1b3;margin-top:26rpx;">我的话费</view>
+      </view>
+    </view>
+  </view>
+  <view class="contai_box">
+    <view class="item_box">
+      <view style="font-size:26rpx;border-left:5rpx solid #d92e35;padding-left:8rpx;font-weight:bold;">VIP限时福利</view>
+      <view class="item_cent">
+        <view style="float:left;">
+          <view class="item_top">
+            <view style="font-size:32rpx;font-weight:bold;float:left;">邀请好友</view>
+            <view style="width:39rpx;height:36rpx;float:left;;margin-left:10rpx;">
+              <image src="/img/images/123_03.png"></image>
+            </view>
+            <text style="color:#eb5647;font-size:22rpx;">+600运动币</text>
+          </view>
+          <view class="item_bot">
+            <view class="bot_pic">
+              <image src="/img/images/123_07.png"></image>
+            </view>
+            <text style="color:#eb5647;font-size:22rpx;">+200成长值</text>
+            <text style="font-size:24rpx;color:#7b7b7b;">（每天可多次完成)</text>
+          </view>
+        </view>
+        <view class="rig_box">
+          <view class="rig_btn_box">
+            邀请
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,59 @@
+<view class="content">
+  <view class="banner_box">
+    <image src="/img/images/images/12344_02.png"></image>
+  </view>
+  <!-- 内容大盒子 -->
+  <view  class="container">
+    <view class="pross_box">
+      <progress percent="{{buzhi}}" border-radius="10rpx" stroke-width="20rpx" backgroundColor="#fa3d2a" activeColor="#ffea73" />
+      <view class="pro_bot_box">
+        <text>200步</text>
+        <text>500步</text>
+        <text>1000步</text>
+        <text>2000步</text>
+      </view>
+    </view>
+    <view class="redev_box">
+      <view class="redbao">
+        <view class="rebbao_top">
+        </view>
+        <view class="kai_box">
+          开
+        </view>
+        <view class="reb_bot">
+         点击领取
+        </view>
+      </view>
+      <view class="redbao">
+        <view class="rebbao_top">
+        </view>
+        <view class="kai_box">
+          开
+        </view>
+        <view class="reb_bot">
+         点击领取
+        </view>
+      </view>
+      <view class="redbao">
+        <view class="rebbao_top">
+        </view>
+        <view class="kai_box">
+          开
+        </view>
+        <view class="reb_bot">
+         点击领取
+        </view>
+      </view>
+      <view class="redbao">
+        <view class="rebbao_top">
+        </view>
+        <view class="kai_box">
+          开
+        </view>
+        <view class="reb_bot">
+         点击领取
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
